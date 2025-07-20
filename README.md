@@ -1,7 +1,7 @@
 # DmitriiGushcinDev
 # 👋 Hi, I'm Dmitrii Gushchin
 
-I'm a backend developer focused on building scalable APIs and backend systems using Python, FastAPI, Django, and PostgreSQL. I'm currently working on a CRM application for real estate agents using modern tools like Docker, async SQLAlchemy, and Alembic.
+I'm a backend developer focused on building scalable APIs and backend systems using Python, FastAPI, Django, and PostgreSQL.
 
 ---
 
