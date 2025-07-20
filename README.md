@@ -1,16 +1,34 @@
-## Hi there 👋
+# DmitriiGushcinDev
+# 👋 Hi, I'm Dmitrii Gushchin
 
-<!--
-**DmitriiGushchinDev/DmitriiGushchinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer focused on building scalable APIs and backend systems using Python, FastAPI, Django, and PostgreSQL. I'm currently working on a CRM application for real estate agents using modern tools like Docker, async SQLAlchemy, and Alembic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+
+- **Languages:** Python, SQL, HTML/CSS, C++ (basic), C# (basic)
+- **Frameworks:** FastAPI, Django, Django REST Framework, Flask
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Docker, Git, Alembic, Postman, Insomnia
+
+---
+
+### 🧪 Projects
+
+- 🏡 RealtyCRM – CRM backend system for real estate agents using FastAPI, PostgreSQL, and Docker
+- ✅ TaskZone – To-do and collaboration backend built with Django REST Framework
+- 🍽️ NutriTrack – API service to track nutrition and calories with FastAPI
+
+---
+
+### 📚 Currently Learning
+
+- Advanced backend deployment and containerization
+- CI/CD pipelines and microservice architecture
+
+---
+
+### 🤝 Open to Work
+
+I'm looking for a junior backend developer role (remote or on-site). I'm open to startups, freelance, or internships. Let’s connect!
