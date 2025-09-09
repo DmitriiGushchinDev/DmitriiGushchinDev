@@ -1,8 +1,8 @@
 # DmitriiGushcinDev
 # 👋 Hi, I'm Dmitrii Gushchin
 
-I'm a backend developer focused on building scalable APIs and backend systems using Python, FastAPI, Django, and PostgreSQL.
-
+Backend developer with ~3 years of experience designing and implementing scalable APIs, microservices, and database-driven systems.  
+Focused on clean architecture, performance, and delivering reliable backend solutions for real-world applications.
 ---
 
 ### 🧰 Tech Stack
