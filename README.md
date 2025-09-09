@@ -1,8 +1,7 @@
 # DmitriiGushcinDev
 # 👋 Hi, I'm Dmitrii Gushchin
 
-Backend developer with ~3 years of experience designing and implementing scalable APIs, microservices, and database-driven systems.  
-Focused on clean architecture, performance, and delivering reliable backend solutions for real-world applications.
+Backend developer with ~3 years of experience designing and implementing scalable APIs, microservices, and database-driven systems.  Focused on clean architecture, performance, and delivering reliable backend solutions for real-world applications.
 
 ### 🧰 Tech Stack
 
