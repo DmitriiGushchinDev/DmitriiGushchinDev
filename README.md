@@ -14,10 +14,12 @@ Backend developer with ~3 years of experience designing and implementing scalabl
 
 ### 🧪 Projects
 
-- 🏡 RealtyCRM – CRM backend system for real estate agents using FastAPI, PostgreSQL, and Docker
-- ✅ TaskZone – To-do and collaboration backend built with Django REST Framework
-- 🍽️ NutriTrack – API service to track nutrition and calories with FastAPI
-
+### 🌦 WeatherApp
+An open-source backend service for fetching and displaying real-time weather data.  
+- Built with **FastAPI** for high-performance, async API endpoints.  
+- Integrated with **OpenWeatherMap API** to provide accurate, real-time weather updates.  
+- Uses **PostgreSQL** for data persistence and historical weather logging.  
+- Includes **Swagger/OpenAPI documentation** for quick API exploration.  
 ---
 
 ### 📚 Currently Learning
