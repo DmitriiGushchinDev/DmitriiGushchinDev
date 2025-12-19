@@ -1,7 +1,7 @@
 # DmitriiGushcinDev
 # 👋 Hi, I'm Dmitrii Gushchin
 
-Backend developer with ~3 years of experience designing and implementing scalable APIs, microservices, and database-driven systems.  Focused on clean architecture, performance, and delivering reliable backend solutions for real-world applications.
+Backend developer with ~5 years of experience designing and implementing scalable APIs, microservices, and database-driven systems.  Focused on clean architecture, performance, and delivering reliable backend solutions for real-world applications.
 
 ### 🧰 Tech Stack
 
@@ -10,24 +10,6 @@ Backend developer with ~3 years of experience designing and implementing scalabl
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Docker, Git, Alembic, Postman, Insomnia
 
----
-
-### 🧪 Projects
-
-### 🌦 WeatherApp
-An open-source backend service for fetching and displaying real-time weather data.  
-- Built with **FastAPI** for high-performance, async API endpoints.  
-- Integrated with **OpenWeatherMap API** to provide accurate, real-time weather updates.  
-- Uses **PostgreSQL** for data persistence and historical weather logging.  
-- Includes **Swagger/OpenAPI documentation** for quick API exploration.  
----
-
-### 📚 Currently Learning
-
-- Advanced backend deployment and containerization
-- CI/CD pipelines and microservice architecture
-
----
 
 ### 🤝 Open to Work
 
