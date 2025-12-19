@@ -5,9 +5,9 @@ Backend developer with ~5 years of experience designing and implementing scalabl
 
 ### 🧰 Tech Stack
 
-- **Languages:** Python, SQL, HTML/CSS, C++ (basic), C# (basic)
+- **Languages:** Python, SQL, HTML/CSS, C++, C#
 - **Frameworks:** FastAPI, Django, Django REST Framework, Flask
-- **Databases:** PostgreSQL, MySQL
+- **Databases:** PostgreSQL, MySQL, Mongodb, Mariadb, Oracle
 - **Tools:** Docker, Git, Alembic, Postman, Insomnia
 
 
