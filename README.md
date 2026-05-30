@@ -1,5 +1,5 @@
-# DmitriiGushcinDev
-# 👋 Hi, I'm Dmitrii Gushchin
+# DanielGus
+# 👋 Hi, I'm Daniel Gus
 
 Backend developer with ~5 years of experience designing and implementing scalable APIs, microservices, and database-driven systems.  Focused on clean architecture, performance, and delivering reliable backend solutions for real-world applications.
 
